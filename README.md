@@ -70,15 +70,3 @@ pip install pandas matplotlib seaborn notebook
 jupyter notebook
 
 Then open the notebook inside the notebooks/ folder.
-
-
-🙋‍♂️ About Me
-I'm Vignesh Keerthi — a data science student learning by doing!
-This project is part of my learning journey to become a data analyst or data scientist.
-Feel free to connect with me:
-
-GitHub: Vicky-042 [Vignesh Keerthi]
-
-Kaggle: vignesh041
-
-
